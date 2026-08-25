@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
