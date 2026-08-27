@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -72,4 +74,5 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
