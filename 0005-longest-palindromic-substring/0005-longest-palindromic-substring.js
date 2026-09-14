@@ -16,15 +16,12 @@ var longestPalindrome = function(s) {
             right++;
         }
 
-        // Return the actual palindrome length
         return right - left - 1;
     }
 
     for (let i = 0; i < s.length; i++) {
-        // Odd-length palindrome
         const odd = expand(i, i);
 
-        // Even-length palindrome
         const even = expand(i, i + 1);
 
         const len = Math.max(odd, even);
