@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0347-top-k-frequent-elements) |
+| [1480-running-sum-of-1d-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
