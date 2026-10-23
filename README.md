@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
