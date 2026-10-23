@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -75,4 +76,13 @@
 | [0007-reverse-integer](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
