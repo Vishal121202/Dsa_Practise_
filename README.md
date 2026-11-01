@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
