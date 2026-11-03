@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1929-concatenation-of-array) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Vishal121202/Dsa_Practise_/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vishal121202/Dsa_Practise_/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
